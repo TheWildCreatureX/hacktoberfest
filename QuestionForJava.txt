@@ -22,5 +22,8 @@ Q7: How many classes we can extends in java?
 Ans:   just one
 
 
-Q8: Who is father of Java?
-Ans: James Ghosling
+Class Test{
+ public static void main(String[] args){
+    System.out.print.ln("Data Altered");
+ }
+}
