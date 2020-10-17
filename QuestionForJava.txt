@@ -1,21 +1,22 @@
 Q1:How to print the data on console?
-Ans:
+Ans: System.out.print("data");
 
 Q2:What is Class in Java?
-Ans:
+Ans: Blueprint for object
 
 Q3:If We have a class named as Work with default constructor then how we will 
     create the object?
-Ans:
+Ans: Work work = nee Work();
 
 Q4:What is Objects in Java?
-Ans:
+Ans: instance of class
 
 Q5: Create an Integer Variable ?
-Ans:
+Ans: int variable_1;
 
 Q6: Write any String class function down here?
-Ans:
+Ans: String a = "hey";
+ a.charAt(0);
 
 Q7: How many classes we can extends in java?
-Ans:  
+Ans:   just one
