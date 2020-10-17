@@ -20,3 +20,7 @@ Ans: String a = "hey";
 
 Q7: How many classes we can extends in java?
 Ans:   just one
+
+
+Q8: Who is father of Java?
+Ans: James Ghosling
